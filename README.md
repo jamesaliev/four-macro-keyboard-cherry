@@ -108,5 +108,6 @@ I will make sure to add the 3D models for the case onto here as well, and keep t
 
 Another plan for the future is to add some type of small display to the PCB design and get that ordered as well, but that will happen after the aforementioned plan above. 
 
-If you're interested in the specifics and details of this project then check out the original inspiration of this project: https://github.com/ruiqimao/keyboard-pcb-guide.
+If you're interested in the specifics and details of this project then check out the original inspiration of this project: https://github.com/ruiqimao/keyboard-pcb-guide. <br>
+
 Also some helpful videos for getting started with KiCad 7.0 that I would recommend can be found here: https://www.youtube.com/watch?v=szu8dJoyikA&list=PLn6004q9oeqGl91KifK6xHGuqvXGb374G
