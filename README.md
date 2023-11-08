@@ -8,7 +8,7 @@ sadekbaroudi's Footprint Library: https://github.com/sadekbaroudi/fingerpunch
 
 If I use a component from Hasu's Symbol Library I will use the acronym (HSL).
 
-## Images of all aspects the PCB Design
+## Images and Design process of all aspects the PCB Design
 
 This is the main schematic with all of the components of the design layed out piece by piece.
 Net labels are used to make the design look cleaner, more elegant, and overall easier to read.
